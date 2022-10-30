@@ -464,7 +464,7 @@
 	{
 		"position": 43,
 		"album_id": "Album17906",
-		"artist": "Charles Mingus",
+		"artist": "Mingus",
 		"name": "The Black Saint And The Sinner Lady",
 		"date": 1963,
 		"genres": "Avant-Garde Jazz, Third Stream",
@@ -486,8 +486,8 @@
 	{
 		"position": 45,
 		"album_id": "Album2115",
-		"artist": "Sigur Ros",
-		"name": "Ágætis byrjun",
+		"artist": "Sigur RÃ³s",
+		"name": "ÃgÃ¦tis Byrjun",
 		"date": 1999,
 		"genres": "Post-Rock",
 		"rating": 4.05,
@@ -618,7 +618,7 @@
 	{
 		"position": 57,
 		"album_id": "Album882",
-		"artist": "Björk",
+		"artist": "BjÃ¶rk",
 		"name": "Homogenic",
 		"date": 1997,
 		"genres": "Art Pop, Electronic",
@@ -860,7 +860,7 @@
 	{
 		"position": 79,
 		"album_id": "Album2438",
-		"artist": "Björk",
+		"artist": "BjÃ¶rk",
 		"name": "Vespertine",
 		"date": 2001,
 		"genres": "Art Pop, Electronic",
@@ -1190,7 +1190,7 @@
 	{
 		"position": 109,
 		"album_id": "Album706",
-		"artist": "Brian Eno",
+		"artist": "Eno",
 		"name": "Another Green World",
 		"date": 1975,
 		"genres": "Art Rock",
@@ -1707,7 +1707,7 @@
 	{
 		"position": 156,
 		"album_id": "Album880",
-		"artist": "Björk",
+		"artist": "BjÃ¶rk",
 		"name": "Post",
 		"date": 1995,
 		"genres": "Art Pop, Electronic",
@@ -2103,7 +2103,7 @@
 	{
 		"position": 192,
 		"album_id": "Album23085",
-		"artist": "Sigur Ros",
+		"artist": "Sigur RÃ³s",
 		"name": "( )",
 		"date": 2002,
 		"genres": "Post-Rock",
@@ -2554,7 +2554,7 @@
 	{
 		"position": 233,
 		"album_id": "Album704",
-		"artist": "Brian Eno",
+		"artist": "Eno",
 		"name": "Here Come The Warm Jets",
 		"date": 1974,
 		"genres": "Art Rock, Experimental Rock",
@@ -3258,7 +3258,7 @@
 	{
 		"position": 297,
 		"album_id": "Album756",
-		"artist": "CHarles Mingus",
+		"artist": "Charlie Mingus",
 		"name": "Blues & Roots",
 		"date": 1960,
 		"genres": "Post-Bop",
@@ -3324,7 +3324,7 @@
 	{
 		"position": 303,
 		"album_id": "Album1716",
-		"artist": "Spiritualized",
+		"artist": "SpiritualizedÂ®",
 		"name": "Ladies And Gentlemen We Are Floating In Space",
 		"date": 1997,
 		"genres": "Neo-Psychedelia, Space Rock, Art Rock",
@@ -3643,7 +3643,7 @@
 	{
 		"position": 332,
 		"album_id": "Album879",
-		"artist": "Björk",
+		"artist": "BjÃ¶rk",
 		"name": "Debut",
 		"date": 1993,
 		"genres": "Art Pop, House",
@@ -3709,7 +3709,7 @@
 	{
 		"position": 338,
 		"album_id": "Album244938",
-		"artist": Akira Yamaoka",
+		"artist": "å±±å²¡æ™ƒ [Akira Yamaoka]",
 		"name": "Silent Hill 2: Original Soundtrack",
 		"date": 2001,
 		"genres": "Video Game Music, Ambient",
@@ -3775,7 +3775,7 @@
 	{
 		"position": 344,
 		"album_id": "Album1093",
-		"artist": "Husker Du",
+		"artist": "HÃ¼sker DÃ¼",
 		"name": "Zen Arcade",
 		"date": 1984,
 		"genres": "Post-Hardcore, Hardcore Punk",
@@ -3852,7 +3852,7 @@
 	{
 		"position": 351,
 		"album_id": "Album8758",
-		"artist": "Stan Getz / João Gilberto Featuring Antonio Carlos Jobim",
+		"artist": "Stan Getz & JoÃ£o Gilberto Featuring AntÃ´nio Carlos Jobim",
 		"name": "Getz / Gilberto",
 		"date": 1964,
 		"genres": "Bossa nova",
@@ -5425,7 +5425,7 @@
 	{
 		"position": 494,
 		"album_id": "Album705",
-		"artist": "Brian Eno",
+		"artist": "Eno",
 		"name": "Taking Tiger Mountain (By Strategy)",
 		"date": 1974,
 		"genres": "Art Rock, Art Pop",
